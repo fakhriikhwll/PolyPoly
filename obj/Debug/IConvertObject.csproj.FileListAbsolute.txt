@@ -1,0 +1,2 @@
+D:\18.11.2265\IConvertObject\IConvertObject\obj\Debug\IConvertObject.csprojAssemblyReference.cache
+D:\18.11.2265\IConvertObject\IConvertObject\obj\Debug\IConvertObject.csproj.CoreCompileInputs.cache

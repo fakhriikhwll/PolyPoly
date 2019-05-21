@@ -1,0 +1,10 @@
+D:\18.11.2265\IConvertObject\IConvertObject\obj\Debug\LatihanPolymorphism2.csprojAssemblyReference.cache
+D:\18.11.2265\IConvertObject\IConvertObject\obj\Debug\LatihanPolymorphism2.csproj.CoreCompileInputs.cache
+D:\18.11.2265\IConvertObject\IConvertObject\bin\Debug\IConvertObject.exe.config
+D:\18.11.2265\IConvertObject\IConvertObject\bin\Debug\IConvertObject.exe
+D:\18.11.2265\IConvertObject\IConvertObject\bin\Debug\IConvertObject.pdb
+D:\18.11.2265\IConvertObject\IConvertObject\bin\Debug\Newtonsoft.Json.dll
+D:\18.11.2265\IConvertObject\IConvertObject\bin\Debug\Newtonsoft.Json.xml
+D:\18.11.2265\IConvertObject\IConvertObject\obj\Debug\LatihanPolymorphism2.csproj.CopyComplete
+D:\18.11.2265\IConvertObject\IConvertObject\obj\Debug\IConvertObject.exe
+D:\18.11.2265\IConvertObject\IConvertObject\obj\Debug\IConvertObject.pdb
